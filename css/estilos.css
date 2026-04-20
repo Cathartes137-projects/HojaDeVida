@@ -1,0 +1,18 @@
+body{
+    background: -webkit-linear-gradient(90deg, #af363b,#a78a7f);
+    background: linear-gradient(90deg, #af363b,#a78a7f);
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: #bf4342;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 12px;
+}
+main{
+    background-color: #a78a7f;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 12px;
+}
