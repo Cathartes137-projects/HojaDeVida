@@ -13,17 +13,49 @@ body{background: -webkit-linear-gradient(90deg, #af363b,#a78a7f);
 
 }
 header{
-    background-color: #bf4342;
-    padding: 25px;
-    margin: 20px;
-    border-radius: 12px;
-}
-header img{
-    border-radius: 10%;
-}
-main{
     background-color: #a78a7f;
     padding: 25px;
     margin: 20px;
     border-radius: 12px;
+    text-align: center;
+}
+header img{
+    border-radius: 50%;
+}
+main{
+    background-color: #a78a7f;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 12px;
+    box-shadow: 0 10px 0 ;
+}
+h3{
+    color:crimson;
+    margin-bottom: 20px;
+}
+h1{color:crimson;
+}
+
+hr{
+    margin-bottom: 20px;
+    color:gray;
+}
+
+p{
+    padding-bottom: 20px;
+    font-size: 18;
+}
+ul{
+    padding-bottom: 20px;
+    list-style: none;
+}
+li{
+    font-size: 18;
+    padding-bottom: 10px;
+}
+footer{
+    text-align: center;
+    padding: 40px;
+    color:rgb(72, 68, 68);
+    font-size: large;
 }
